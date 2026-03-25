@@ -1,7 +1,3 @@
-Perfecto, te dejo la versión **más completa y “pro”**, incluyendo la idea de la **plataforma de reservas de canchas**, bien estructurada para que destaque en el fork 👇
-
----
-
 # 4. Actividades de Clase
 
 ## Actividad 1: Identificar Sistemas Distribuidos
