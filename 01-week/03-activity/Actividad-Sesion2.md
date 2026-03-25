@@ -1,7 +1,3 @@
-Perfecto, te armo esto **listo para pegar en tu `.md`**, con nivel “pro” pero manteniendo que es un informe breve 👇
-
----
-
 # Actividad 1: Análisis CAP
 
 Se analiza cada sistema según el **Teorema CAP (Consistencia, Disponibilidad y Tolerancia a particiones)**:
